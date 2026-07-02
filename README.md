@@ -134,7 +134,7 @@ FinancePilot/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/adon27/FinancePilot.git
+git clone https://github.com/adon27/Finance-Pilot.git
 ```
 
 ### Open in Android Studio
