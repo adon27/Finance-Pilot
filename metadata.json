@@ -1,0 +1,6 @@
+{
+  "name": "Finance Pilot",
+  "description": "A premium, modern personal finance manager cloned and modernized from MyExpenses. Features an elegant Apple Liquid Glass design, multi-account support, automatic budgets, detailed transaction log, custom recurring schedules, and a Gemini-powered receipt OCR scanner.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
