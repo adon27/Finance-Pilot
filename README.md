@@ -1,8 +1,5 @@
-# Finance Pilot
+Finance Pilot
 
-<p align="center">
-  <img src="assets/logo.png" alt="Finance Pilot Logo" width="180">
-</p>
 
 <p align="center">
   <strong>A modern, privacy-first personal finance manager for Android.</strong>
@@ -93,24 +90,6 @@ Built using modern Android technologies, Finance Pilot offers comprehensive fina
 
 ---
 
-## Screenshots
-
-<p align="center">
-Add screenshots here after publishing the application.
-</p>
-
-```
-screenshots/
-├── dashboard.png
-├── transactions.png
-├── budgets.png
-├── analytics.png
-├── accounts.png
-└── settings.png
-```
-
----
-
 ## Technology Stack
 
 * Kotlin
@@ -155,7 +134,7 @@ FinancePilot/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/FinancePilot.git
+git clone https://github.com/adon27/FinancePilot.git
 ```
 
 ### Open in Android Studio
